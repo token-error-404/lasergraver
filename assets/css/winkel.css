@@ -149,7 +149,7 @@ a.buy-btn{
 .button-89 {
   --b: 3px;   /* border thickness */
   --s: .45em; /* size of the corner */
-  --color: #373B44;
+  --color: #848587;
   
   padding: calc(.5em + var(--s)) calc(.9em + var(--s));
   color: var(--color);
